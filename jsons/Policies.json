@@ -1,5 +1,78 @@
 [
     {
+        "name": "Meritocracia",
+        "era": "Classical era"
+        "priorities": {
+            "Neutral": 4,
+            "Cultural": 6,
+            "Diplomatic": 3,
+            "Domination": 2,
+            "Scientific": 6
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]"
+        ],
+        "policies": [
+            {
+                "name": "Educación Pública",
+                "uniques": [
+                    "[+50]% Great Person generation [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Milicia opcional",
+                "uniques": [
+                    "Great General provides double combat bonus"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Erasmus",
+                "uniques": [
+                    "Allied City-States will occasionally gift Great People"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Doctorados",
+                "uniques": [
+                    "[Great General] is earned [+33]% faster",
+                    "[Great Scientist] is earned [+33]% faster",
+                    "[Great Merchant] is earned [+33]% faster"
+                ],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Becas",
+                "uniques": [
+                    "[+2 gold, +2 happiness] [in all cities]"
+                ],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Erasmus",
+                "uniques": [
+                    "Allied City-States will occasionally gift Great People"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Meritocracia completada",
+                "uniques": [
+                    ["Free Great Person"],
+                    "[+50]% Great Person generation [in all cities]"
+                ]
+            }
+        ],
+    }
+    {
         "name": "Tradition",
         "era": "Ancient era",
         "priorities": {

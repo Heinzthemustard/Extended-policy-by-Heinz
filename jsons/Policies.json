@@ -1,7 +1,7 @@
 [
     {
         "name": "Meritocracia",
-        "era": "Classical era"
+        "era": "Classical era",
         "priorities": {
             "Neutral": 4,
             "Cultural": 6,
@@ -56,17 +56,9 @@
                 "column": 2
             },
             {
-                "name": "Erasmus",
-                "uniques": [
-                    "Allied City-States will occasionally gift Great People"
-                ],
-                "row": 2,
-                "column": 1
-            },
-            {
                 "name": "Meritocracia completada",
                 "uniques": [
-                    ["Free Great Person"],
+                    "Free Great Person",
                     "[+50]% Great Person generation [in all cities]"
                 ]
             }

@@ -27,7 +27,7 @@
                     "Great General provides double combat bonus"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Erasmus",
@@ -35,7 +35,7 @@
                     "Allied City-States will occasionally gift Great People"
                 ],
                 "row": 2,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Doctorados",
@@ -44,16 +44,16 @@
                     "[Great Scientist] is earned [+33]% faster",
                     "[Great Merchant] is earned [+33]% faster"
                 ],
-                "row": 3,
-                "column": 1
+                "row": 2,
+                "column": 4
             },
             {
                 "name": "Becas",
                 "uniques": [
                     "[+2 Gold, +2 Happiness] [in all cities]"
                 ],
-                "row": 2,
-                "column": 2
+                "row": 3,
+                "column": 3
             },
             {
                 "name": "Meritocracia Complete",

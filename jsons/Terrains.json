@@ -12,7 +12,7 @@
             "Considered [Undesirable] when determining start locations",
             "Blocks line-of-sight from tiles at same elevation",
 		"Occurs at temperature between [0.1] and [0.2] and humidity between [0.5] and [0.7]",
-		"A Region can not contain more [Plain] tiles than [Foglands] tiles",
+		"A Region can not contain more [Plains] tiles than [Foglands] tiles",
             "Every [100] tiles with this terrain will receive a major deposit of a strategic resource."]
     },
 ]

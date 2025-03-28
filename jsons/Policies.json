@@ -50,7 +50,7 @@
             {
                 "name": "Becas",
                 "uniques": [
-                    "[+2 Gold, +2 Happiness] [in all cities]"
+                    "[+1 Gold, +1 Happiness] [in all cities]"
                 ],
                 "row": 3,
                 "column": 3

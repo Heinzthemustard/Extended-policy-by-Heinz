@@ -17,9 +17,9 @@
 		"turnsToBuild": 18,
 		"techRequired": "Construction",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
-			"Grants ["Survivalism I"] to adjacent [{Military} {Land}] units for the rest of the game",
-			"Can be built outside your borders","Costs [1] [Gold] per turn"],
-            "Pillaging this improvement yields approximately [+18 Gold]"],
+			"Grants [Survivalism I] to adjacent [{Military} {Land}] units for the rest of the game",
+			"Can be built outside your borders","Costs [1] [Gold] per turn",
+            		"Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "C"
 	}
   
